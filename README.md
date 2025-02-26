@@ -44,6 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NickBzy/NickBzy/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/NickBzy/NickBzy/output/github-snake.svg" alt="Snake animation" />
 
 ###
