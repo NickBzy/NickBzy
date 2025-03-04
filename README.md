@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">You can reach me at the email in my github profile.</p>
+<p align="left">You can reach via e-mail at nicolasbuu@gmail.com.</p>
 
 ###
 
